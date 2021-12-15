@@ -8,7 +8,7 @@ import (
 
 	"strings"
 
-	"github.com/V4NSH4J/discord-mass-dm-GO/utilities"
+	"github.com/DaKing01/dm-bot/utilities"
 )
 
 // Inputs the Channel snowflake and sends them the message; outputs the response code for error handling.

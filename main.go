@@ -11,8 +11,8 @@ import (
 
 	"time"
 
-	"github.com/V4NSH4J/discord-mass-dm-GO/directmessage"
-	"github.com/V4NSH4J/discord-mass-dm-GO/utilities"
+	"github.com/DaKing01/dm-bot/directmessage"
+	"github.com/DaKing01/dm-bot/utilities"
 	"github.com/fatih/color"
 	"github.com/zenthangplus/goccm"
 )

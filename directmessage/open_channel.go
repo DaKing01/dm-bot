@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/V4NSH4J/discord-mass-dm-GO/utilities"
+	"github.com/DaKing01/dm-bot/utilities"
 	"github.com/fatih/color"
 )
 

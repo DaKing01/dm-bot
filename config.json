@@ -1,0 +1,13 @@
+{
+    "individual_delay": 7,
+    "rate_limit_delay": 800,
+    "offset": 300,
+    "skip_completed": true,
+    "proxy": "wfewfe:9qRor2XiQs@38.146.218.62:3486",
+    "remove_dead_tokens": false,
+    "remove_completed_members": true,
+    "stop_dead_tokens": true,
+    "bypass_tos": true,
+    "check_mutual": false
+
+}
